@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hello my name is Maryvic
 
-**mluisel/mluisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 📊
+- 📊 aspiring data analyst 
 - 🌱 I’m currently learning SQL and typescrpt
+- I want to collaborate on other data prjects
 -->
